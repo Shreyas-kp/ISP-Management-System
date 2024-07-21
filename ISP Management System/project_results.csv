@@ -1,0 +1,5 @@
+SubscriptionID,AccountID,SubscriptionStartDate,SubscriptionEndDate,SubscriptionIDataLimit,SubscriptionCost
+SUBS001,NULL,2023-05-01,2024-05-01,Unlimited,1200
+SUBS002,NULL,2023-06-01,2024-06-01,Basic,600
+SUBS003,NULL,2023-07-01,2024-07-01,Basic,900
+SUBS004,NULL,2023-07-15,2024-07-15,Unlimited,1200
